@@ -1,6 +1,6 @@
 # 3D-Organizer: Streamline Your 3D Model Sales
 
-![Banner Image](./resources/banner.png)
+![Banner Image](./resources/banner.svg)
 
 ## 🚀 Automating 3D Model Publishing Across Marketplaces
 
